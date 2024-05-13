@@ -1,0 +1,7 @@
+# prettier should ignore
+.vscode/
+.**/
+*.md
+# *.y*ml
+
+assets/css/custom.css
