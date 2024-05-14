@@ -112,7 +112,7 @@
     "rollup-plugin-flow-entry": "0.3.6",
     "rollup-plugin-license": "3.4.0",
     "rollup-plugin-terser": "7.0.2",
-    "rollup-plugin-visualizer": "4.2.2",
+    "rollup-plugin-visualizer": "5.12.0",
     "serve": "14.2.3",
     "typescript": "5.4.5"
   }
