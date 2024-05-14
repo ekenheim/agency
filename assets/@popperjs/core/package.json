@@ -101,7 +101,7 @@
     "jest-environment-jsdom-sixteen": "1.0.3",
     "jest-environment-puppeteer": "10.0.1",
     "jest-image-snapshot": "4.5.1",
-    "jest-puppeteer": "4.4.0",
+    "jest-puppeteer": "10.0.1",
     "pinst": "3.0.0",
     "poster": "0.0.9",
     "prettier": "2.8.8",
