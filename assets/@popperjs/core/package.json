@@ -107,7 +107,7 @@
     "prettier": "2.8.8",
     "pretty-quick": "4.0.0",
     "puppeteer": "10.4.0",
-    "replace-in-files-cli": "1.0.0",
+    "replace-in-files-cli": "2.2.0",
     "rollup": "4.17.2",
     "rollup-plugin-flow-entry": "0.3.6",
     "rollup-plugin-license": "3.4.0",
