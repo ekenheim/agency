@@ -80,7 +80,7 @@
     "@khanacademy/flow-to-ts": "0.5.2",
     "@rollup/plugin-babel": "6.0.4",
     "@rollup/plugin-replace": "2.4.2",
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "babel-jest": "29.7.0",
     "babel-plugin-add-import-extension": "1.6.0",
     "babel-plugin-annotate-pure-calls": "0.4.0",
