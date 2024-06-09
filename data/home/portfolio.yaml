@@ -3,10 +3,13 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "WHY US?"
-    title: "Not your typical agency. We're your strategic ally."
-    text: "We do free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
+    pretitle: "Why us?"
+    title: "Not your typical agency. We're your strategic ally"
+    text: "Free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
 
+    buttons: 
+      - label: "See live"
+        url: "#"
 
       - label: "Read more"
         url: "#"
