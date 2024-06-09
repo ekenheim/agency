@@ -3,9 +3,9 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Why us?"
+    title: "Not your typical agency. We're your strategic ally"
+    text: "Free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
 
     buttons: 
       - label: "See live"
@@ -15,9 +15,8 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Clients we've worked with"
+    text: "Toyota, Lexus Nordics. Product Comparison Websites (Nordic & UK). Restaurants and Bars Industry (Nordic, Middle East & Europe). E-commerce Businesses."
 
     buttons: 
       - label: "See live"
@@ -26,14 +25,4 @@ content:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
