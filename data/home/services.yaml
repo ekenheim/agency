@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "BLA BLA BLA RANDA."
+  text: "RANDA ACTUALLY ROCKS."
   cards:
     - image: "images/services-web-development.png"
       title: "Pay Per Click (PPC)"
