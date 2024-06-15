@@ -5,12 +5,12 @@ module:
     extended: true
     min: "0.115.4"
 
-title: "Up Business"
+title: "ATLAS DIGITAL"
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
+  title: "Atlas Digital"
   description: "We specialize in providing services to design websites, applications, build and maintain businesses for customers."
   images: 
     - "images/hero-image.png"
