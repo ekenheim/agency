@@ -7,13 +7,11 @@ module:
 
 title: "Up Business"
 
-# googleAnalytics: ""
-
 summaryLength: 20
 
 params:
   title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "We specialize in providing services to design websites, applications, build and maintain businesses for customers."
   images: 
     - "images/hero-image.png"
 
@@ -46,7 +44,7 @@ menus:
       weight: 1
 
     - name: "How we work"
-      url: "/#"
+      url: "/how-we-work/process"
       weight: 2
 
     - name: "Our team"
@@ -68,11 +66,11 @@ menus:
       weight: 1
 
     - name: "How we work"
-      url: "/#"
-      weight: 2
+      url: "/how-we-work/process"
+
 
     - name: "Our team"
-      url: "/#"
+      url: "#"
       weight: 3
 
   

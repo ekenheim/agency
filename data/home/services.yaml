@@ -4,21 +4,21 @@ id: "services"
 content:
   title: "Our main services"
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/services1.png"
       title: "Pay Per Click (PPC)"
       text: "- Paid Media.\n-Paid Search. -Paid Social. -Display & Programmatic. -App Marketing."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/services2.png"
       title: "Digital Advisory"
       text: "-Digital Media Strategy. -Competitive & Market Analysis. -International Growth. -Digital Due Diligence. -Martech Assesment. -KPI Setting."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/services1.png"
       title: "SEO"
       text: "- Site Migrations. -Web & Tech Audit. -Content Strategy. -Content Production & Automation."
       button:
