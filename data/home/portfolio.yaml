@@ -3,13 +3,12 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Why us?"
-    title: "Not your typical agency. We're your strategic ally"
-    text: "Free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
+    pretitle: "WHY US?"
+    title: "Not your typical agency. We're your strategic ally."
+    text: " We do a free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+    
 
       - label: "Read more"
         url: "#"
@@ -19,8 +18,7 @@ content:
     text: "Toyota, Lexus Nordics. Product Comparison Websites (Nordic & UK). Restaurants and Bars Industry (Nordic, Middle East & Europe). E-commerce Businesses."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      
 
       - label: "Read more"
         url: "#"

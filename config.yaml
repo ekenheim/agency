@@ -31,14 +31,13 @@ params:
     twitter: "#"
 
   location:
-    - "Morocco"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Morocco, Marrakech"
+    - "Sweden, Stockholm"
 
   contact:
-    - "sassybastard@gmail.com"
-    - "207.555.0119"
+    - "atlasdigital@gmail.com"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2024 All Rights Reserved"
 
 menus:
   main:
@@ -53,14 +52,9 @@ menus:
     - name: "Our team"
       url: "/our-team"
       weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
     - name: "Blog"
       url: "/blog"
-      weight: 5
+      weight: 4
 
   buttons:
     - name: "Book a call"
@@ -81,9 +75,7 @@ menus:
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
+  
 
     - name: "Blog"
       url: "/blog"
