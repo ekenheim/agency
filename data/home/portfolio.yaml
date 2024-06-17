@@ -3,9 +3,8 @@ id: "portfolio"
 
 content:
   - image: "images/buisness-ally.png"
-    pretitle: "WHY US?"
-    title: "Not your typical agency. We're your strategic ally."
-    text: " We do a free extensive digital marketing and growth audit. Team experience, employee retention, both strategy and technical operational specialists that work with profitable growth in mindFull Funnel delivery model. Results driven, flexible and customised to individual brand needs."
+    title: "We turn Your Ideas into Successful Brands"
+    text: "We're not just about ideas; we're about turning those ideas into successful brands. Working closely with you, we create clear plans that guide your customers from first interest to loyal fan. Our goal is to make your brand stand out and build strong relationships with your customers for the long term."
 
     buttons: 
     
@@ -14,8 +13,8 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    title: "Clients we've worked with"
-    text: "Toyota, Lexus Nordics. Product Comparison Websites (Nordic & UK). Restaurants and Bars Industry (Nordic, Middle East & Europe). E-commerce Businesses."
+    title: "Learn from Experts at Atlas Digital"
+    text: "We love sharing our knowledge. That's why we offer seminars and workshops at universities, schools, and companies. Whether you're a student or a business owner, we teach you what works in today's digital world. From understanding social media to creating effective ads, we're here to help you succeed."
 
     buttons: 
       

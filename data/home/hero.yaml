@@ -2,8 +2,9 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Empowering bold brands through profitable growth. Digital professionals, offering best-in-class data driven marketing strategies and services."
+  title: "Grow Your Business with **Effective Marketing**
+"
+  text: "We help businesses grow through smart digital marketing. We focus on strategies that bring you more customers and increase your profits. Whether it's getting you noticed on social media, bringing more visitors to your website with Google Ads, or making sure every dollar you spend gives you a good return, we're here to help your business thrive online."
 
   buttonPrimary:
     label: "How we work"

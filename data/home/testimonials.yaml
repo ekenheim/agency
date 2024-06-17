@@ -2,10 +2,9 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+  title: "Build a Website that Works for You"
 
   featured:
     image: "images/testimonials-awards.png"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+    text: "Your website should be more than just a pretty face—it should bring you business. At [Your Agency Name], we design websites that not only look great but also attract visitors and turn them into customers. Let us create a website that reflects your brand and makes it easy for people to do business with you."
 
