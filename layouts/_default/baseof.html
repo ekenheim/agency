@@ -1,12 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-  {{ partial "head/head.html" . }}
-  <body>
-    {{- partial "shared/header.html" . -}}
-    {{- block "main" . -}}{{- end -}}
-    {{- partial "shared/footer.html" . -}}
+<!-- 
 
-    <!-- Add the tracking code here -->
-    <script defer src="https://umami.ekenhome.se/script.js" data-website-id="04cba89d-89ff-4ccc-94e6-5b73f42cfcb8"></script>
-  </body>
+PROJECT: Startup Hugo
+VERSION: 1.0.0
+AUTHOR: Gethugothemes
+AUTHOR WEBSITE: https://gethugothemes.com
+
+-->
+
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default `en-US` }}" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+	{{ partial "head.html" . }}
+
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "style.html" . }}
+	{{ else }}
+	{{ partial "style.html" . }}
+	{{ end }}
+</head>
+
+<body>
+	<!-- cache partial only in production -->
+	{{ partial "header.html" . }}
+	{{ if hugo.IsProduction }}
+	{{ partialCached "preloader.html" . }}
+	{{ else }}
+	{{ partial "preloader.html" . }}
+	{{ end }}
+
+	<!-- Google Tag Manager (noscript) -->
+	{{ with site.Params.google_tag_manager }}
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ . }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	{{ end }}
+
+	<main>
+		{{ block "main" . }}{{ end }}
+	</main>
+
+	<!-- cache partial only in production -->
+	{{ if hugo.IsProduction }}
+	{{ partialCached "footer.html" . }}
+	{{ partialCached "script.html" . }}
+	{{ else }}
+	{{ partial "footer.html" . }}
+	{{ partial "script.html" . }}
+	{{ end }}
+</body>
+
 </html>
