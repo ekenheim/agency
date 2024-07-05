@@ -5,3 +5,6 @@
 # 	path = giscus
 # 	url = https://github.com/giscus/giscus.git
 # 	branch = main
+[submodule "themes/airspace-hugo"]
+	path = themes/airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo.git
