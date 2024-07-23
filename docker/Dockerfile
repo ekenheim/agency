@@ -1,5 +1,5 @@
 # https://sko.ai/blog/how-to-actually-build-hugo-containers/
-FROM --platform=$BUILDPLATFORM docker.io/library/alpine:3.19@sha256:3d45e3a7fe4825b11de5d414a79e6ee0a8e909368763822bc52f706194e6b440 as build
+FROM --platform=$BUILDPLATFORM docker.io/library/alpine:3.19@sha256:95c16745f100f44cf9a0939fd3f357905f845f8b6fa7d0cde0e88c9764060185 as build
 RUN \
     apk add --no-cache \
       git \
